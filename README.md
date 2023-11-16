@@ -55,3 +55,10 @@ Apache 2.0; see [`LICENSE`](LICENSE) for details.
 ## Disclaimer
 
 This project is not an officially supported Google product.
+
+The project is currently under minimal active maintenance.
+We will only be updating it to fix critical bugs and address feature requests with significant demand.
+While we appreciate any feedback or suggestions, we may not be able to respond to all of them promptly.
+
+We encourage you to contribute to the library by reporting bugs, suggesting features, and submitting pull requests.
+Your contributions will help us improve the library for everyone.
